@@ -1,6 +1,6 @@
 # Dashboard de Adquisición
 
-Dashboard que cruza métricas en una sola vista — diseñado para escalar a medida que crecen las fuentes de datos.
+Dashboard que cruza métricas en una sola vista.
 
 ## Cómo funciona
 
