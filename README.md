@@ -2,8 +2,6 @@
 
 Dashboard interno para visualizar métricas de adquisición: campañas de Google Ads, pipeline de ventas (Pipedrive), tráfico web (Google Analytics 4), posicionamiento orgánico (Search Console) y tablero operativo desde Google Sheets.
 
-🔗 Disponible en: https://dashboard-adquisicion.up.railway.app/
-
 ## Stack
 
 - Node.js + Express
