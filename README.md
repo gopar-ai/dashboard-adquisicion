@@ -7,9 +7,6 @@ Dashboard interno para visualizar métricas de adquisición: campañas de Google
 ### Resumen ejecutivo
 ![Resumen ejecutivo](docs/screenshots/overview.png)
 
-### Mapa de campañas
-![Mapa de campañas](docs/screenshots/mapa-campanas.png)
-
 ### Rendimiento del sitio (GA4)
 ![Rendimiento sitio web](docs/screenshots/ga4.png)
 
