@@ -1,6 +1,6 @@
 # Dashboard de Adquisición
 
-Dashboard que cruza métricas de Google Ads, Pipedrive, GA4, Search Console y Google Sheets en una sola vista — diseñado para escalar a medida que crecen las fuentes de datos, en lugar de depender de una herramienta de BI genérica.
+Dashboard que cruza métricas en una sola vista — diseñado para escalar a medida que crecen las fuentes de datos.
 
 ## Cómo funciona
 
