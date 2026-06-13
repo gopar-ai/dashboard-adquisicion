@@ -1,6 +1,6 @@
 # Dashboard de Adquisición
 
-Interoperabilidad de métricas de Growth + Informe ejecutivo descargable. Cruza datos de Google Ads, Pipedrive, GA4, Search Console y Google Sheets en una sola vista — diseñado para escalar a medida que crecen las fuentes de datos.
+Tablero de métricas de Growth modular y escalable.
 
 ## Cómo funciona
 
