@@ -24,13 +24,6 @@ Antes de este dashboard, las métricas de adquisición vivían dispersas entre G
 - Google Search Console API
 - Google Sheets API (tablero operativo y estadísticas de subasta)
 
-## Limitantes actuales
-
-- Sin base de datos: todo se calcula al vuelo consultando las APIs externas en cada carga, lo que depende de su disponibilidad y límites de cuota.
-- Sin autenticación: pensado para uso interno detrás de un acceso controlado, no para exponerse públicamente.
-- Sin pruebas automatizadas.
-- El frontend vanilla facilita el arranque rápido, pero a medida que crezcan las vistas convendría migrar a un framework para mantenibilidad.
-
 ## Configuración
 
 1. Instalar dependencias:
