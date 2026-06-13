@@ -1,6 +1,6 @@
 # Dashboard de Adquisición
 
-Dashboard interno para visualizar métricas de adquisición de Detecta Security: campañas de Google Ads, pipeline de ventas (Pipedrive), tráfico web (Google Analytics 4) y posicionamiento orgánico (Search Console).
+Dashboard interno para visualizar métricas de adquisición: campañas de Google Ads, pipeline de ventas (Pipedrive), tráfico web (Google Analytics 4) y posicionamiento orgánico (Search Console).
 
 ## Stack
 
