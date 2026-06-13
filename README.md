@@ -1,6 +1,8 @@
 # Dashboard de Adquisición
 
-Dashboard interno para visualizar métricas de adquisición: campañas de Google Ads, pipeline de ventas (Pipedrive), tráfico web (Google Analytics 4) y posicionamiento orgánico (Search Console).
+Dashboard interno para visualizar métricas de adquisición: campañas de Google Ads, pipeline de ventas (Pipedrive), tráfico web (Google Analytics 4), posicionamiento orgánico (Search Console) y tablero operativo desde Google Sheets.
+
+🔗 Disponible en: https://dashboard-adquisicion.up.railway.app/
 
 ## Stack
 
@@ -10,6 +12,7 @@ Dashboard interno para visualizar métricas de adquisición: campañas de Google
 - Pipedrive API
 - Google Analytics 4 Data API
 - Google Search Console API
+- Google Sheets API (tablero operativo y estadísticas de subasta)
 
 ## Configuración
 
@@ -22,10 +25,11 @@ Dashboard interno para visualizar métricas de adquisición: campañas de Google
    - `PIPEDRIVE_*`
    - `GA4_PROPERTY_ID`
    - `GSC_*`
+   - `GOOGLE_SHEETS_AUCTION_ID`
 
 3. Iniciar el servidor:
    ```
    npm start
    ```
 
-El dashboard estará disponible en `http://localhost:3000` (o el puerto configurado).
+En local, el dashboard estará disponible en `http://localhost:3000` (o el puerto configurado).
