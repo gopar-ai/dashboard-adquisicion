@@ -7,9 +7,6 @@ Dashboard interno para visualizar métricas de adquisición: campañas de Google
 ### Resumen ejecutivo
 ![Resumen ejecutivo](docs/screenshots/overview.png)
 
-### Rendimiento del sitio (GA4)
-![Rendimiento sitio web](docs/screenshots/ga4.png)
-
 ## Stack
 
 - Node.js + Express
