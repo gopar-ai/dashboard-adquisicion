@@ -18,7 +18,6 @@ Cada fuente se integra como un módulo independiente del backend, lo que permite
 
 Desde el dashboard se puede generar y descargar un **informe de growth en PDF** con los datos del periodo seleccionado: portada, resumen ejecutivo, gráficas y conclusiones.
 
-### Resumen ejecutivo
 ![Resumen ejecutivo](docs/screenshots/overview.png)
 
 ### Embudo de conversión
